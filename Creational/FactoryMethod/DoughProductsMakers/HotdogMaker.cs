@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using FactoryMethod.DoughProducts;
 
-namespace FactoryMethod
+namespace FactoryMethod.DoughProductsMakers
 {
     internal class HotdogMaker : DoughProductsMaker
     {

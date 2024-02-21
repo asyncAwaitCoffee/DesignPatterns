@@ -1,4 +1,7 @@
-﻿namespace FactoryMethod
+﻿using FactoryMethod.DoughProducts;
+using FactoryMethod.DoughProductsMakers;
+
+namespace FactoryMethod
 {
     internal class Program
     {

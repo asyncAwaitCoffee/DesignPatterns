@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "FactoryMet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{2145A24E-44CF-480A-B37C-CB774FD92EEE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreationalTest", "CreationalTest\CreationalTest.csproj", "{0A43E597-CAE2-4AB9-8696-1E2537E94B46}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Singleton.csproj", "{538853F0-A8E8-445B-87B7-FC0B43AEE6E0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Prototype\Prototype.csproj", "{5DD276FD-0832-4E4E-AB8C-EC204BC1764A}"
@@ -29,10 +27,6 @@ Global
 		{2145A24E-44CF-480A-B37C-CB774FD92EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2145A24E-44CF-480A-B37C-CB774FD92EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2145A24E-44CF-480A-B37C-CB774FD92EEE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0A43E597-CAE2-4AB9-8696-1E2537E94B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0A43E597-CAE2-4AB9-8696-1E2537E94B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0A43E597-CAE2-4AB9-8696-1E2537E94B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0A43E597-CAE2-4AB9-8696-1E2537E94B46}.Release|Any CPU.Build.0 = Release|Any CPU
 		{538853F0-A8E8-445B-87B7-FC0B43AEE6E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{538853F0-A8E8-445B-87B7-FC0B43AEE6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{538853F0-A8E8-445B-87B7-FC0B43AEE6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
