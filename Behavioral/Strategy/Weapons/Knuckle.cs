@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Strategy
+namespace Strategy.Weapons
 {
     internal class Knuckle : IWeapon
     {

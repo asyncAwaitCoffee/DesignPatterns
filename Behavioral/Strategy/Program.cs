@@ -1,4 +1,7 @@
-﻿namespace Strategy
+﻿using Strategy.Heroes;
+using Strategy.Weapons;
+
+namespace Strategy
 {
     internal class Program
     {

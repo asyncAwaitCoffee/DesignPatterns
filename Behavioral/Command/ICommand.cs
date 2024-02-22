@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Strategy
+namespace Command
 {
-    internal interface IWeapon
+    internal interface ICommand
     {
-        public void Attack();
+        void Execute();
+        void Undo();
     }
 }

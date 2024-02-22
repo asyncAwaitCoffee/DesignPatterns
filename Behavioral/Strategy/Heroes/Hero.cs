@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Strategy.Weapons;
 
-namespace Strategy
+namespace Strategy.Heroes
 {
     internal class Hero
     {

@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Strategy
+namespace Strategy.Weapons
 {
-    internal class Club : IWeapon
+    internal class Sword : IWeapon
     {
         public void Attack()
         {
-            Console.WriteLine("Bonk!");
+            Console.WriteLine("Slash!");
         }
     }
 }
